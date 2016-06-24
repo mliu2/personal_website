@@ -37,3 +37,7 @@ body {
 .panel:hover{
   background-color:#708090; /* slategray */
 }
+.img-circle {
+	border: 5px solid #ffffff;
+    border-radius: 100%;
+}
